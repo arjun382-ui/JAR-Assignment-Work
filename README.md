@@ -1,4 +1,4 @@
-	WeVote: Secure Online Voting Application
+	WeVote: Secure Online Voting Application Figma link -> https://www.figma.com/design/4OPRDGSPzB62sPYp6EzAEY/WeVote?node-id=1-2&t=aO0PyCDa1QBQw0cl-1
 
 WeVote is a secure, user-friendly digital voting platform that allows eligible voters to cast their votes remotely. It ensures the integrity of the voting process and     maintains voter data privacy. Designed with state-of-the-art encryption and privacy techniques, WeVote guarantees a seamless voting experience.
 
